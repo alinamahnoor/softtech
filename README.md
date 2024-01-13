@@ -1,2 +1,7 @@
 # softtech
-first repository
+#include<iostream>
+#include<cmath>
+#include<algorithm>
+
+using namespace std;
+
